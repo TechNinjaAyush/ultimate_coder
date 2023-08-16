@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
- int d=4;
- int e=6;
+ int e=4;
+ int f=6;
  cout<<d+e;
     return 0;
 }
